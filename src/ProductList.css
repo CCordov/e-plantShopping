@@ -250,3 +250,10 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+
+  .cart_total{
+    padding-left: 28px;
+    padding-top: 18px;
+    position: absolute;
+    font-size: 26px;
+  }
