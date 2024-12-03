@@ -42,10 +42,10 @@ const CartItem = ({ onContinueShopping }) => {
 
   // Calculate total cost based on quantity for an item
   const calculateTotalCost = (item) => {
-    let totalCost = 0;
+    /*let totalCost = 0;
     cart.forEach(item => {
-        totalAmount += item.quantity * item.cost.slice(1);
-    });
+        calculateTotalCost += item.quantity * item.cost.slice(1);
+    });*/
   };
 
   return (
